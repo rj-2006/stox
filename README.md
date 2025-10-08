@@ -41,7 +41,7 @@ A React Native Expo app that displays the latest stock and crypto news with AI-g
 
 The app uses mock data by default. To integrate real NewsAPI:
 
-1. Get an API key from [NewsAPI](https://newsapi.org/)
+1. Get an API key from [FinHubb API](https://finnhub.io/)
 2. In `app/(tabs)/index.tsx`, replace the mock fetch with:
 
    ```typescript
